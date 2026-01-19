@@ -1,0 +1,13 @@
+print("Hello") 
+# Sentiment Analysis Project 
+
+this project is a simple Python-based sentiment Analysis
+
+It analysis taxt and classfies it as Positive, Negative, and Neutral.
+
+## Technologies
+- Python
+- taxtBlod
+## Example
+Input: " I'm tired"
+Output: Negative
